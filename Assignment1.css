@@ -1,0 +1,35 @@
+.sub {
+  background-color: rgba(157, 186, 222, 0.776);
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+  color: black;
+}
+body {
+  background-image: url(sat1.jpg);
+  color: aliceblue;
+}
+div {
+  text-align: center;
+}
+p {
+  text-indent: 30px;
+  text-align: justify;
+}
+table {
+  border-collapse: collapse;
+  text-align: center;
+  background-color: rgb(214, 226, 232);
+  color: black;
+}
+th,td {
+  border: 3px solid black;
+  padding: 10px;
+}
+h2 {
+  word-spacing: 2px;
+  background-image: url(1.jpg);
+  margin: 35px 50px 50px;
+  padding: 30px 5px 30px 5px;
+  border-style: double;
+}
